@@ -68,9 +68,12 @@ If we want to control traffic in real time and work more advancedly , the we wil
 <img width="1174" height="878" alt="image" src="https://github.com/user-attachments/assets/5a7a2bda-0292-43a7-8890-1c6390eae979" />
 <img width="736" height="717" alt="image" src="https://github.com/user-attachments/assets/a9ae4c2b-7233-43e5-9c17-f12159e506e1" />
 <img width="635" height="594" alt="image" src="https://github.com/user-attachments/assets/93c88cdf-285c-4b07-925c-3788a6a73b05" />
-<img width="317" height="601" alt="image" src="https://github.com/user-attachments/assets/0446666b-7e16-46ba-9c2f-43e4c4a82c5c" />
-# Demo Project
-<img width="800" height="560" alt="image" src="https://github.com/user-attachments/assets/eb94c653-b954-4fa2-96f9-91a94b5a11ee" />
+<img width="317" height="601" alt="image" src="https://github.com/user-attachments/assets/0446666b-7e16-46ba-9c2f-43e4c4a82c5c" />   
+
+
+## Demo Project 
+
+<img width="800" height="560" alt="image" src="https://github.com/user-attachments/assets/eb94c653-b954-4fa2-96f9-91a94b5a11ee" />    
 
 ## Real-Time Data Collection (K2, K5):   
 Real-time traffic condition monitoring and predictive modeling are used to foresee changes. Adapt signal timings dynamically using anticipated and current.
